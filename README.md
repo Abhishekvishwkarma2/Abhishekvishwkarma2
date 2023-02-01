@@ -1,14 +1,11 @@
- Hi there 👋 My Name is Abhishek Vishwkarma
+ Hi 👋 I am Abhishek Vishwkarma
+ #####################
 
-**Abhishekvishwkarma2/Abhishekvishwkarma2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+PHP Developer
+----------------------------
+- 🌍 I'm based in Dhanbad,Jharkhand
 - 🔭 I’m currently working on XLRI Jamshedpur
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning MERN stack
+- 🖥️ See my portfolio at [Website](Not Available)
+- 🤔 ✉️ You can contact me at [Mail](mailto:abhishekvishwkarma28@gmail.com)
+- 📫 How to reach me: 9708266110(tel:9708266110)
