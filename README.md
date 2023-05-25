@@ -11,9 +11,7 @@
 
 - 📫 How to reach me **abhishekvishwkarma28.com**
 
-- 📄 Know about my experiences [[
-](https://drive.google.com/drive/u/0/my-drive)/view]([
-](https://drive.google.com/drive/u/0/my-drive)/view)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive/view](https://drive.google.com/drive/u/0/my-drive/view)
 
 - ⚡ Fun fact **high-quality work by their respective deadlines**
 
